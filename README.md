@@ -2,7 +2,7 @@
 
 轻量、秒开：用快捷键立刻新建/打开一个文本草稿，可以立刻开始写,不用先找聊天框再复制粘贴
 
-### (要求下载autohotkey)[https://www.autohotkey.com/]
+### [要求下载autohotkey](https://www.autohotkey.com/)
 
 ### 默认配置
 
